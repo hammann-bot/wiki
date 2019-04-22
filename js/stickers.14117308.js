@@ -119,5 +119,5 @@
     "wow" : "https://2.bp.blogspot.com/-L_PJG4z0oq8/XG2addrj0vI/AAAAAAAAE3g/dVz-hzdR7OYYltp2YSV71sc-XSIDu7gkwCLcBGAs/s1600/69791192607f89762bb01c787b868f82.jpg"
   }
 }
-}}}]);
+}}]);
 //# sourceMappingURL=stickers.14117308.js.map
