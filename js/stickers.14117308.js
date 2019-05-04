@@ -76,6 +76,7 @@
     "salt" : "https://i.imgur.com/3SNMqzB.jpg",
     "satan" : "https://i.imgur.com/SYPdYHD.jpg",
     "silvahappy" : "https://i.imgur.com/mdvOvju.png",
+    "slimer" : "https://4.bp.blogspot.com/-tV4E6SphLlw/XMsM1aP_nFI/AAAAAAAAE_Q/xsH4ZsWzxj4Ys87HZy5mj3qFuI5AAn5YwCLcBGAs/s1600/slimer.jpg",
     "sr" : "https://i.imgur.com/qMawynp.png",
     "ssr" : "https://i.imgur.com/nIsIfyq.png",
     "ssr2" : "https://4.bp.blogspot.com/-CMtbq8_eKtk/XLFfeJJ92zI/AAAAAAAAE8c/h6JtlOdD3RIvPLBId5pI7VeOB4Y2vlfegCLcBGAs/s1600/ssr_1.png",
@@ -92,6 +93,7 @@
     "gay" : "https://i.imgur.com/3C7b0je.jpg"
   },
   "others" : {
+    ":)" : "https://3.bp.blogspot.com/-yvH8QnZrgcs/XM3Bv8BL8cI/AAAAAAAAE_g/w8K5W117UJ8E6LUq3pHth_jR-CaxN8KSQCLcBGAs/s1600/%2529%2529.jpg",
     "??" : "https://i.imgur.com/Dehtcyo.jpg",
     "denial" : "https://i.imgur.com/vSQGk16.jpg",
     "dickup" : "https://i.imgur.com/qy9rigK.png",
