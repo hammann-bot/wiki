@@ -35,7 +35,6 @@
     "hmmkaga" : "https://i.imgur.com/rd4IYTb.png",
     "hsleep" : "https://i.imgur.com/sBmF6Ul.jpg",
     "mite" : "https://i.imgur.com/81GjoiA.jpg",
-    "prinz1" : "https://i.imgur.com/nVNck5O.png",
     "tsundere" : "https://i.imgur.com/8vMxA8M.jpg",
     "valhalla" : "https://i.imgur.com/rhJHHIO.jpg"
   },
