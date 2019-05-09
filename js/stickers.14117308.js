@@ -41,6 +41,9 @@
   "fate" : {
     "astolfo" : "https://i.imgur.com/6Wz95JV.jpg",
     "fcute" : "https://i.imgur.com/7KeeyHI.png",
+    "fhappy" : "https://1.bp.blogspot.com/-kV-pGI3snuY/XNSCEvmr-bI/AAAAAAAAFAE/iYcn-BFP_FMm0EEB2QMrSFPNXJCBqO8CACLcBGAs/s1600/fhappy.jpg",
+    "fkya" : "https://4.bp.blogspot.com/-cQ-sNPUqGVU/XNSCGUJvOyI/AAAAAAAAFAI/nKLiqauhyVI_aTpkHPd8TzZpX0oACOH0ACLcBGAs/s1600/fmiko.JPG",
+    "fkyaa" : "https://1.bp.blogspot.com/-FQDlReXdGXg/XNSGWsXtm5I/AAAAAAAAFA0/4maYxpZjh74CzRTPI2--CXwtUdoepb3XACLcBGAs/s1600/fkyaa.JPG",
     "ftrap" : "https://i.imgur.com/6p9DHg2.jpg",
     "nohomo" : "https://i.imgur.com/x3uNWSi.png",
     "thonk" : "https://i.imgur.com/DC7ipou.jpg",
