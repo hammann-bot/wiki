@@ -34,6 +34,7 @@
     "hmmakagi" : "https://i.imgur.com/2X3fqRC.png",
     "hmmkaga" : "https://i.imgur.com/rd4IYTb.png",
     "hsleep" : "https://i.imgur.com/sBmF6Ul.jpg",
+    "idiibi" : "https://3.bp.blogspot.com/-v-0IyBjIcwE/XNb3SeAXbxI/AAAAAAAAFBA/tfX5uc0N4rcigQXYh1l2gZ5SZ2NQwJxSgCLcBGAs/s1600/idiibi.jpg",
     "mite" : "https://i.imgur.com/81GjoiA.jpg",
     "tsundere" : "https://i.imgur.com/8vMxA8M.jpg",
     "valhalla" : "https://i.imgur.com/rhJHHIO.jpg"
@@ -63,6 +64,7 @@
     "deal" : "https://i.imgur.com/gdt6taJ.jpg",
     "dj" : "https://i.imgur.com/qnBEP3A.jpg",
     "esport" : "https://i.imgur.com/P7n0reD.jpg",
+    "europa" : "https://1.bp.blogspot.com/-06PoUW5brKc/XPKrrfg1I8I/AAAAAAAAFBY/EuXKIai5WEAuBMBqy1nYTaN16kFWi817wCLcBGAs/s1600/01.JPG",
     "family" : "https://i.imgur.com/QYJm7Zy.jpg",
     "gohan" : "https://i.imgur.com/wgwZx94.jpg",
     "haa" : "https://3.bp.blogspot.com/-kS-qLj5_QZE/XG65tA6hTKI/AAAAAAAAE5M/_mQaaCiE42cer9G-dzXD9uTDkWHbkAyYgCLcBGAs/s1600/1452008235306.png",
