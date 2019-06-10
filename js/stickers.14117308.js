@@ -52,6 +52,7 @@
     "whoa" : "https://i.imgur.com/mjNKPRo.png"
   },
   "fluffy" : {
+    "foxbox" : "https://1.bp.blogspot.com/-tuQhfOpfaqY/XP65-t1pI8I/AAAAAAAAFCU/LDD-ryBHeQ8zwskEa56GjPjAEdWDteDWACLcBGAs/s1600/foxbox.jpg",
     "foxlazy" : "https://1.bp.blogspot.com/-i9KiM6LLcKc/XPP2y9O7nqI/AAAAAAAAFB0/W-tiSj8I1QUtaxzGXwZcYMyRn8E8uLXcACLcBGAs/s1600/foxlazy.JPG",
     "foxsleep" : "https://1.bp.blogspot.com/-q_DYT7QHDCw/XLw3EK0kr9I/AAAAAAAAE-0/NUMPUowwDxQ9Wln-33mgVef1a3SVQ1qZwCLcBGAs/s1600/foxsleep.jpg",
     "foxstare" : "https://1.bp.blogspot.com/-tSKfTyADefA/XPP2y9ViJeI/AAAAAAAAFBw/hxZC5oqMo_chcLUjvndF4gX3_1PdteqLQCLcBGAs/s1600/foxstare.JPG",
@@ -119,6 +120,7 @@
     "master" : "https://2.bp.blogspot.com/-hzz2ziebTiY/XLDMYebsq2I/AAAAAAAAE8E/FbSnG8vITo0WuiEWHQHw6vud0T_ci9cjwCLcBGAs/s1600/master.jpg",
     "monster" : "https://i.imgur.com/NZBWSTN.jpg",
     "oouu" : "https://i.imgur.com/fH1dEE3.png",
+    "paid" : "https://1.bp.blogspot.com/-Vu612n8vaUI/XPfzvmBoCiI/AAAAAAAAFCI/8mRO1Hrie4QsnBofPrsjEPDUt_WEqVBxwCLcBGAs/s1600/paid.JPG",
     "pantsu" : "https://i.imgur.com/AWicvC6.jpg",
     "pretty" : "https://4.bp.blogspot.com/-UCHNaGKGyNg/XK0vowQfXPI/AAAAAAAAE7w/kpZd3a0Hu0kqRr-Khoy35fCBs_pvYUHBgCLcBGAs/s1600/pretty.jpg",
     "rem" : "https://2.bp.blogspot.com/-FOPbh8UXDYo/XKV67MOfaEI/AAAAAAAAE6s/r1HJot2t5PUqsfam_gCl2FPrh8qtg-SSgCLcBGAs/s1600/rem.jpg",
