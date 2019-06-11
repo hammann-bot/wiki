@@ -5,10 +5,12 @@
     "02thonk" : "https://i.imgur.com/j8zs1sJ.jpg",
     "ahh" : "https://3.bp.blogspot.com/-U2C4WJGTrrc/XLPfsvkMpNI/AAAAAAAAE80/qNZxNLj31LstcLjQIjIJ_7AFwhEdm1kWACLcBGAs/s1600/ahh.jpg",
     "hoee" : "https://i.imgur.com/2NmFIeQ.png",
+    "master" : "https://2.bp.blogspot.com/-hzz2ziebTiY/XLDMYebsq2I/AAAAAAAAE8E/FbSnG8vITo0WuiEWHQHw6vud0T_ci9cjwCLcBGAs/s1600/master.jpg",
     "raph" : "https://3.bp.blogspot.com/-MwzapYT5_qY/XLOqm83NK7I/AAAAAAAAE8o/xRm7tCrJeL8j34pYxHd3LLZrwq0cVdJhACLcBGAs/s1600/raph.jpg",
     "raphangry" : "https://3.bp.blogspot.com/-5rgvH_OdbMY/XLbfYygpI4I/AAAAAAAAE98/cyU2QPrEpvUWo240Cyov8qDnk8aG2Ed7QCLcBGAs/s1600/raphangry.JPG",
     "raphatk" : "https://4.bp.blogspot.com/-dZdgRMUbcJY/XLbgalwqY0I/AAAAAAAAE-M/9h-LeIm-dOs7aK6_dWNEHz7ysd0azprowCLcBGAs/s1600/raphsword.jpg",
     "raphhuu" : "https://1.bp.blogspot.com/-u9tbEdgUIAk/XLbgajlMGgI/AAAAAAAAE-I/HWpWhoxMsSYXE-S5OS9sT7TfGtFN7qlygCLcBGAs/s1600/raphhuu.jpg",
+    "rem" : "https://2.bp.blogspot.com/-FOPbh8UXDYo/XKV67MOfaEI/AAAAAAAAE6s/r1HJot2t5PUqsfam_gCl2FPrh8qtg-SSgCLcBGAs/s1600/rem.jpg",
     "trap" : "https://1.bp.blogspot.com/-c-Yl_AEPHCk/XLbJBOMH5FI/AAAAAAAAE9w/PRlsFgLcreEasUX8q0hnglcrRWr8yCpugCLcBGAs/s1600/lots.JPG"
   },
   "azurlane" : {
@@ -60,6 +62,13 @@
     "foxwake" : "https://i.imgur.com/463xPXW.jpg",
     "maplepeek" : "https://1.bp.blogspot.com/-KXI54MGCdyU/XLPl9uAvVdI/AAAAAAAAE9A/MYFtJzRR3Nk4ezwWEIIiHCdnpr0NCni6QCLcBGAs/s1600/565177765305909248.png"
   },
+  "games" : {
+    "bowsette" : "https://i.imgur.com/hylnIXO.jpg",
+    "fightinggames" : "https://i.imgur.com/AQCRhiK.png",
+    "gacha" : "https://i.imgur.com/BZZnP3z.png",
+    "gay" : "https://i.imgur.com/3C7b0je.jpg",
+    "wtf" : "https://1.bp.blogspot.com/-RHD8b8ohL4I/XQAqa6wZvvI/AAAAAAAAFCs/qn37CbowzxYxSA6QLId22d_SKj_NvMwdgCLcBGAs/s1600/wtf.JPG"
+  },
   "gbf" : {
     "bastards" : "https://i.imgur.com/6zsFmFp.png",
     "centrum" : "https://2.bp.blogspot.com/-IbH8xIjmXTc/XLXHBAYRiMI/AAAAAAAAE9M/tuTw8EGdmdM3CqdL11s8XpfppcdVVHv4QCLcBGAs/s1600/centrum.jpg",
@@ -68,6 +77,7 @@
     "dagger" : "https://i.imgur.com/sURpzvS.jpg",
     "deal" : "https://i.imgur.com/gdt6taJ.jpg",
     "dj" : "https://i.imgur.com/qnBEP3A.jpg",
+    "djeetacum" : "https://1.bp.blogspot.com/-zoDH0GBy74Y/XQAiYfY_IqI/AAAAAAAAFCg/_9QYjE_HqZMQMMW_MZbXjuY8ubaIw96swCLcBGAs/s1600/djeetacum.JPG",
     "esport" : "https://i.imgur.com/P7n0reD.jpg",
     "europa" : "https://1.bp.blogspot.com/-06PoUW5brKc/XPKrrfg1I8I/AAAAAAAAFBY/EuXKIai5WEAuBMBqy1nYTaN16kFWi817wCLcBGAs/s1600/01.JPG",
     "family" : "https://i.imgur.com/QYJm7Zy.jpg",
@@ -98,18 +108,12 @@
   "gfl" : {
     "yay" : "https://i.imgur.com/BmCfdLl.jpg"
   },
-  "mario" : {
-    "bowsette" : "https://i.imgur.com/hylnIXO.jpg",
-    "gay" : "https://i.imgur.com/3C7b0je.jpg"
-  },
   "others" : {
     ":)" : "https://3.bp.blogspot.com/-yvH8QnZrgcs/XM3Bv8BL8cI/AAAAAAAAE_g/w8K5W117UJ8E6LUq3pHth_jR-CaxN8KSQCLcBGAs/s1600/%2529%2529.jpg",
     "??" : "https://i.imgur.com/Dehtcyo.jpg",
     "denial" : "https://i.imgur.com/vSQGk16.jpg",
     "dickup" : "https://i.imgur.com/qy9rigK.png",
     "dickup2" : "https://i.imgur.com/eMVUPpJ.jpg",
-    "fightinggames" : "https://i.imgur.com/AQCRhiK.png",
-    "gacha" : "https://i.imgur.com/BZZnP3z.png",
     "geh" : "https://2.bp.blogspot.com/-gj_avKaNKKY/XNG1zi3_-QI/AAAAAAAAE_4/tsm4tN1cp18ZU-KdqLAJoXpasy9lNQsLwCLcBGAs/s1600/geh.jpg",
     "hmm" : "https://i.imgur.com/2pc0Yef.png",
     "hue" : "https://i.imgur.com/o6BwX8r.png",
@@ -117,13 +121,11 @@
     "lesb" : "https://i.imgur.com/0EBOC1C.jpg",
     "lewd" : "https://i.imgur.com/b9BFEHL.png",
     "loved" : "https://1.bp.blogspot.com/-uchEjJ0JIhc/XKt7ypKEaBI/AAAAAAAAE68/aONjd8fOQtYeMcwmEZZpSa7DK6MKWg_mQCLcBGAs/s1600/loved.jpg",
-    "master" : "https://2.bp.blogspot.com/-hzz2ziebTiY/XLDMYebsq2I/AAAAAAAAE8E/FbSnG8vITo0WuiEWHQHw6vud0T_ci9cjwCLcBGAs/s1600/master.jpg",
     "monster" : "https://i.imgur.com/NZBWSTN.jpg",
     "oouu" : "https://i.imgur.com/fH1dEE3.png",
     "paid" : "https://1.bp.blogspot.com/-Vu612n8vaUI/XPfzvmBoCiI/AAAAAAAAFCI/8mRO1Hrie4QsnBofPrsjEPDUt_WEqVBxwCLcBGAs/s1600/paid.JPG",
     "pantsu" : "https://i.imgur.com/AWicvC6.jpg",
     "pretty" : "https://4.bp.blogspot.com/-UCHNaGKGyNg/XK0vowQfXPI/AAAAAAAAE7w/kpZd3a0Hu0kqRr-Khoy35fCBs_pvYUHBgCLcBGAs/s1600/pretty.jpg",
-    "rem" : "https://2.bp.blogspot.com/-FOPbh8UXDYo/XKV67MOfaEI/AAAAAAAAE6s/r1HJot2t5PUqsfam_gCl2FPrh8qtg-SSgCLcBGAs/s1600/rem.jpg",
     "sauce" : "https://i.imgur.com/ft0r0b9.jpg",
     "silent" : "https://i.imgur.com/qIKa71X.jpg",
     "tuturu" : "https://1.bp.blogspot.com/-0wLw5G6_Q1M/XKt8BUkiCpI/AAAAAAAAE7E/sgblGQtQQJ4h8LcxyDs511-We_CMQg93gCLcBGAs/s1600/tuturu.jpg",
