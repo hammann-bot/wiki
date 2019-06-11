@@ -67,7 +67,8 @@
     "fightinggames" : "https://i.imgur.com/AQCRhiK.png",
     "gacha" : "https://i.imgur.com/BZZnP3z.png",
     "gay" : "https://i.imgur.com/3C7b0je.jpg",
-    "wtf" : "https://1.bp.blogspot.com/-RHD8b8ohL4I/XQAqa6wZvvI/AAAAAAAAFCs/qn37CbowzxYxSA6QLId22d_SKj_NvMwdgCLcBGAs/s1600/wtf.JPG"
+    "wtf" : "https://1.bp.blogspot.com/-RHD8b8ohL4I/XQAqa6wZvvI/AAAAAAAAFCs/qn37CbowzxYxSA6QLId22d_SKj_NvMwdgCLcBGAs/s1600/wtf.JPG",
+    "yay" : "https://i.imgur.com/BmCfdLl.jpg"
   },
   "gbf" : {
     "bastards" : "https://i.imgur.com/6zsFmFp.png",
@@ -104,9 +105,6 @@
     "sup" : "https://i.imgur.com/3qXtZxo.png",
     "thonk2" : "https://i.imgur.com/qd1IVxs.png",
     "useless" : "https://i.imgur.com/ich6Tdy.jpg"
-  },
-  "gfl" : {
-    "yay" : "https://i.imgur.com/BmCfdLl.jpg"
   },
   "others" : {
     ":)" : "https://3.bp.blogspot.com/-yvH8QnZrgcs/XM3Bv8BL8cI/AAAAAAAAE_g/w8K5W117UJ8E6LUq3pHth_jR-CaxN8KSQCLcBGAs/s1600/%2529%2529.jpg",
