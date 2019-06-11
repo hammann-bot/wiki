@@ -30,7 +30,6 @@
     "fuel" : "https://i.imgur.com/hG0X3qP.jpg",
     "h" : "https://i.imgur.com/8OfkUT4.png",
     "hammann1" : "https://1.bp.blogspot.com/-0kU4qzZ3qMw/XFz8zdFAfwI/AAAAAAAABoQ/TwK_P7F4dasun_IxsIhs6QLwfBE21GBVwCLcBGAs/s1600/hammann1.jpg",
-    "hammann2" : "https://i.imgur.com/qGVtJ8a.png",
     "hammannland" : "https://i.imgur.com/qaudYmu.png",
     "hentai" : "https://i.imgur.com/Yp6Sali.png",
     "here" : "https://i.imgur.com/Y2YNsYJ.jpg",
