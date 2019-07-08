@@ -9,6 +9,7 @@
     "raph" : "https://3.bp.blogspot.com/-MwzapYT5_qY/XLOqm83NK7I/AAAAAAAAE8o/xRm7tCrJeL8j34pYxHd3LLZrwq0cVdJhACLcBGAs/s1600/raph.jpg",
     "raphangry" : "https://3.bp.blogspot.com/-5rgvH_OdbMY/XLbfYygpI4I/AAAAAAAAE98/cyU2QPrEpvUWo240Cyov8qDnk8aG2Ed7QCLcBGAs/s1600/raphangry.JPG",
     "raphatk" : "https://4.bp.blogspot.com/-dZdgRMUbcJY/XLbgalwqY0I/AAAAAAAAE-M/9h-LeIm-dOs7aK6_dWNEHz7ysd0azprowCLcBGAs/s1600/raphsword.jpg",
+    "rapheba" : "https://1.bp.blogspot.com/-VU3idjkIq_g/XQxwILbj5nI/AAAAAAAAFDA/6KayZxx7VfUSnvGN9fO1VbnoRIGfIxRtQCLcBGAs/s1600/unknown.png",
     "raphhuu" : "https://1.bp.blogspot.com/-u9tbEdgUIAk/XLbgajlMGgI/AAAAAAAAE-I/HWpWhoxMsSYXE-S5OS9sT7TfGtFN7qlygCLcBGAs/s1600/raphhuu.jpg",
     "rem" : "https://2.bp.blogspot.com/-FOPbh8UXDYo/XKV67MOfaEI/AAAAAAAAE6s/r1HJot2t5PUqsfam_gCl2FPrh8qtg-SSgCLcBGAs/s1600/rem.jpg",
     "trap" : "https://1.bp.blogspot.com/-c-Yl_AEPHCk/XLbJBOMH5FI/AAAAAAAAE9w/PRlsFgLcreEasUX8q0hnglcrRWr8yCpugCLcBGAs/s1600/lots.JPG"
@@ -102,7 +103,8 @@
     "ssr3" : "https://2.bp.blogspot.com/-mhKFe0BGL8c/XL0vUijze3I/AAAAAAAAE_A/_8d-mL7B-W0tgklDkJE1vTjJOYBxZpi_gCLcBGAs/s1600/ssr3.jpg",
     "sup" : "https://i.imgur.com/3qXtZxo.png",
     "thonk2" : "https://i.imgur.com/qd1IVxs.png",
-    "useless" : "https://i.imgur.com/ich6Tdy.jpg"
+    "useless" : "https://i.imgur.com/ich6Tdy.jpg",
+    "yuelangry" : "https://1.bp.blogspot.com/-ZjXrGUe3nnY/XSOpfujMTRI/AAAAAAAAFDQ/G4Mm-NeHvVQW-4pEEGO6EcC1v3tAEB-JwCLcBGAs/s1600/yuelangry.JPG"
   },
   "others" : {
     ":)" : "https://3.bp.blogspot.com/-yvH8QnZrgcs/XM3Bv8BL8cI/AAAAAAAAE_g/w8K5W117UJ8E6LUq3pHth_jR-CaxN8KSQCLcBGAs/s1600/%2529%2529.jpg",
