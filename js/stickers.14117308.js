@@ -12,6 +12,7 @@
     "rapheba" : "https://1.bp.blogspot.com/-VU3idjkIq_g/XQxwILbj5nI/AAAAAAAAFDA/6KayZxx7VfUSnvGN9fO1VbnoRIGfIxRtQCLcBGAs/s1600/unknown.png",
     "raphhuu" : "https://1.bp.blogspot.com/-u9tbEdgUIAk/XLbgajlMGgI/AAAAAAAAE-I/HWpWhoxMsSYXE-S5OS9sT7TfGtFN7qlygCLcBGAs/s1600/raphhuu.jpg",
     "rem" : "https://2.bp.blogspot.com/-FOPbh8UXDYo/XKV67MOfaEI/AAAAAAAAE6s/r1HJot2t5PUqsfam_gCl2FPrh8qtg-SSgCLcBGAs/s1600/rem.jpg",
+    "stare" : "https://1.bp.blogspot.com/-AkBQ9IQeUf0/XSY4WzdivZI/AAAAAAAAFDc/Vqthegz9kpA3jAUO--Srtsb9bRH3xII9QCLcBGAs/s1600/stare2.jpg",
     "trap" : "https://1.bp.blogspot.com/-c-Yl_AEPHCk/XLbJBOMH5FI/AAAAAAAAE9w/PRlsFgLcreEasUX8q0hnglcrRWr8yCpugCLcBGAs/s1600/lots.JPG"
   },
   "azurlane" : {
@@ -89,10 +90,12 @@
     "letsfuck" : "https://2.bp.blogspot.com/-4xDHoVN78ZM/XM9h4SvbgnI/AAAAAAAAE_s/WNW3ZwIWcE4yDrcREQgLLt_oVmSipT0rgCLcBGAs/s1600/letfuck.jpg",
     "luckyfriends" : "https://i.imgur.com/CYZrg0s.png",
     "mikafuck" : "https://3.bp.blogspot.com/-2dA6oJZhWps/XIFq_G1H8YI/AAAAAAAAE50/DPerrywaY0ozN8eTGsFvY5dlCaD12cQZwCLcBGAs/s1600/mika01.jpg",
+    "nier" : "https://1.bp.blogspot.com/-L5tQ9xogiMo/XSuSrI8SdiI/AAAAAAAAFDo/d-GHnYdJ8lw-8qNWm_ZZChWHoZeD0h5xACLcBGAs/s1600/nier.jpg",
     "nio" : "https://3.bp.blogspot.com/-0zaiQ5qHmNU/XLfcmqu3JnI/AAAAAAAAE-c/nG2tImvpMow7FKW-eVT-Z-_x4B2bhqJEgCLcBGAs/s1600/nio.jpg",
     "notlikethis" : "https://i.imgur.com/UZnCeMy.png",
     "r" : "https://i.imgur.com/AkmpeY8.png",
     "r2" : "https://i.imgur.com/Nkinp8X.png",
+    "rosetta" : "https://1.bp.blogspot.com/-2PYrQli69OE/XSuTDu1DZyI/AAAAAAAAFDw/otUu4CSsIeIQhn8Qiia8emBLHyFi8NWEACLcBGAs/s1600/rosetta.png",
     "salt" : "https://i.imgur.com/3SNMqzB.jpg",
     "satan" : "https://i.imgur.com/SYPdYHD.jpg",
     "silvahappy" : "https://i.imgur.com/mdvOvju.png",
