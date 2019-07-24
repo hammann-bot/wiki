@@ -82,6 +82,7 @@
     "esport" : "https://i.imgur.com/P7n0reD.jpg",
     "europa" : "https://1.bp.blogspot.com/-06PoUW5brKc/XPKrrfg1I8I/AAAAAAAAFBY/EuXKIai5WEAuBMBqy1nYTaN16kFWi817wCLcBGAs/s1600/01.JPG",
     "family" : "https://i.imgur.com/QYJm7Zy.jpg",
+    "fraux" : "https://1.bp.blogspot.com/-2SlcjgzzfWM/XTfQAVWkwuI/AAAAAAAAFEI/VEw3VRiJRGYaS_L06NYs60ra-UYHgpXtACLcBGAs/s1600/feaux.png",
     "gohan" : "https://i.imgur.com/wgwZx94.jpg",
     "haa" : "https://3.bp.blogspot.com/-kS-qLj5_QZE/XG65tA6hTKI/AAAAAAAAE5M/_mQaaCiE42cer9G-dzXD9uTDkWHbkAyYgCLcBGAs/s1600/1452008235306.png",
     "huu" : "https://i.imgur.com/bPHXWLm.png",
