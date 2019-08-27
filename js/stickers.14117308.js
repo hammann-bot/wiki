@@ -13,7 +13,8 @@
     "raphhuu" : "https://1.bp.blogspot.com/-u9tbEdgUIAk/XLbgajlMGgI/AAAAAAAAE-I/HWpWhoxMsSYXE-S5OS9sT7TfGtFN7qlygCLcBGAs/s1600/raphhuu.jpg",
     "rem" : "https://2.bp.blogspot.com/-FOPbh8UXDYo/XKV67MOfaEI/AAAAAAAAE6s/r1HJot2t5PUqsfam_gCl2FPrh8qtg-SSgCLcBGAs/s1600/rem.jpg",
     "stare" : "https://1.bp.blogspot.com/-AkBQ9IQeUf0/XSY4WzdivZI/AAAAAAAAFDc/Vqthegz9kpA3jAUO--Srtsb9bRH3xII9QCLcBGAs/s1600/stare2.jpg",
-    "trap" : "https://1.bp.blogspot.com/-c-Yl_AEPHCk/XLbJBOMH5FI/AAAAAAAAE9w/PRlsFgLcreEasUX8q0hnglcrRWr8yCpugCLcBGAs/s1600/lots.JPG"
+    "trap" : "https://1.bp.blogspot.com/-c-Yl_AEPHCk/XLbJBOMH5FI/AAAAAAAAE9w/PRlsFgLcreEasUX8q0hnglcrRWr8yCpugCLcBGAs/s1600/lots.JPG",
+    "yay2" : "https://1.bp.blogspot.com/-wQxUXdrYZR0/XT8xjeS4N5I/AAAAAAAAFEg/erRHGJ3T_PkMGCwZF-Fa2j3u-cNkDoOXACLcBGAs/s1600/yay2.jpg"
   },
   "azurlane" : {
     "3d5hi" : "https://i.imgur.com/uYk63PP.png",
@@ -26,6 +27,7 @@
     "badcat" : "https://i.imgur.com/EB4nibZ.png",
     "baka" : "https://i.imgur.com/LnHW8Pu.png",
     "drink" : "https://i.imgur.com/Su7W5IU.jpg",
+    "drink2" : "https://1.bp.blogspot.com/-hGmlM6iMl7Q/XT80E3SCVFI/AAAAAAAAFEs/hYZ0TwOdCB48O7Fm5JwCNdRk5wxlshR7gCLcBGAs/s1600/drink2.jpg",
     "drinkbleach" : "https://i.imgur.com/ZbPZBTh.jpg",
     "fuck" : "https://i.imgur.com/kyhoMeY.jpg",
     "fuel" : "https://i.imgur.com/hG0X3qP.jpg",
@@ -50,6 +52,7 @@
     "fkyaa" : "https://1.bp.blogspot.com/-FQDlReXdGXg/XNSGWsXtm5I/AAAAAAAAFA0/4maYxpZjh74CzRTPI2--CXwtUdoepb3XACLcBGAs/s1600/fkyaa.JPG",
     "ftrap" : "https://i.imgur.com/6p9DHg2.jpg",
     "nohomo" : "https://i.imgur.com/x3uNWSi.png",
+    "pizza" : "https://1.bp.blogspot.com/-aPry1sFTPw8/XWSTGJpcdvI/AAAAAAAAFG0/tSKRgZzVIb0i6oW421b6JwSsf_pwH7zDQCLcBGAs/s1600/pizza.jpg",
     "thonk" : "https://i.imgur.com/DC7ipou.jpg",
     "whoa" : "https://i.imgur.com/mjNKPRo.png"
   },
@@ -71,6 +74,7 @@
     "yay" : "https://i.imgur.com/BmCfdLl.jpg"
   },
   "gbf" : {
+    "alexiel" : "https://1.bp.blogspot.com/-NPnyzjjWmQg/XUZlmRCQDCI/AAAAAAAAFE4/Fd7jWI8G0lgcjUBHnLpB19MNUAEm4GyIwCLcBGAs/s1600/alexiel.png",
     "bastards" : "https://i.imgur.com/6zsFmFp.png",
     "centrum" : "https://2.bp.blogspot.com/-IbH8xIjmXTc/XLXHBAYRiMI/AAAAAAAAE9M/tuTw8EGdmdM3CqdL11s8XpfppcdVVHv4QCLcBGAs/s1600/centrum.jpg",
     "claris" : "https://4.bp.blogspot.com/-YqiEC2NPUUQ/XG65tDyTSTI/AAAAAAAAE5E/xFp_LFgmMWcNVpaLQ8n0Fe_33FI5oMMAgCLcBGAs/s1600/1450424346598.jpg",
@@ -108,6 +112,7 @@
     "sup" : "https://i.imgur.com/3qXtZxo.png",
     "thonk2" : "https://i.imgur.com/qd1IVxs.png",
     "useless" : "https://i.imgur.com/ich6Tdy.jpg",
+    "yuel" : "https://1.bp.blogspot.com/-9VfufH0cay8/XUz8mmsNCGI/AAAAAAAAFFE/j3lNpBB9XIAfU9qdoaMAXxPsyic_pdjuQCLcBGAs/s1600/yuel.png",
     "yuelangry" : "https://1.bp.blogspot.com/-ZjXrGUe3nnY/XSOpfujMTRI/AAAAAAAAFDQ/G4Mm-NeHvVQW-4pEEGO6EcC1v3tAEB-JwCLcBGAs/s1600/yuelangry.JPG"
   },
   "others" : {
