@@ -16,6 +16,9 @@
     "trap" : "https://1.bp.blogspot.com/-c-Yl_AEPHCk/XLbJBOMH5FI/AAAAAAAAE9w/PRlsFgLcreEasUX8q0hnglcrRWr8yCpugCLcBGAs/s1600/lots.JPG",
     "yay2" : "https://1.bp.blogspot.com/-wQxUXdrYZR0/XT8xjeS4N5I/AAAAAAAAFEg/erRHGJ3T_PkMGCwZF-Fa2j3u-cNkDoOXACLcBGAs/s1600/yay2.jpg"
   },
+  "arknights": {
+    "heh": "https://1.bp.blogspot.com/-h7034e8FtXA/Xl2GeoiLAiI/AAAAAAAAFIc/poNVjI4mF3sfovOsEhnV8z6EJS8MNSe1gCLcBGAsYHQ/s1600/aaa.jpg"
+  },
   "azurlane" : {
     "3d5hi" : "https://i.imgur.com/uYk63PP.png",
     "akagi" : "https://i.imgur.com/H11VDMS.jpg",
