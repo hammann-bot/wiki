@@ -17,7 +17,8 @@
     "yay2" : "https://1.bp.blogspot.com/-wQxUXdrYZR0/XT8xjeS4N5I/AAAAAAAAFEg/erRHGJ3T_PkMGCwZF-Fa2j3u-cNkDoOXACLcBGAs/s1600/yay2.jpg"
   },
   "arknights": {
-    "heh": "https://1.bp.blogspot.com/-h7034e8FtXA/Xl2GeoiLAiI/AAAAAAAAFIc/poNVjI4mF3sfovOsEhnV8z6EJS8MNSe1gCLcBGAsYHQ/s1600/aaa.jpg"
+    "heh": "https://1.bp.blogspot.com/-h7034e8FtXA/Xl2GeoiLAiI/AAAAAAAAFIc/poNVjI4mF3sfovOsEhnV8z6EJS8MNSe1gCLcBGAsYHQ/s1600/aaa.jpg",
+    "red01": "https://1.bp.blogspot.com/-zRMK2FfjNcI/XmCDSUWFlFI/AAAAAAAAFI0/p7Ozym7OEgQYsXOpE0fbZfuAyECcT9TDQCLcBGAsYHQ/s1600/red01.jpg"
   },
   "azurlane" : {
     "3d5hi" : "https://i.imgur.com/uYk63PP.png",
